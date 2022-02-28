@@ -133,7 +133,7 @@
         padding-left: 25px;
     }
 
-    .navbar__toggle.bar {
+    .navbar__toggle .bar {
         width: 25px;
         height: 3px;
         margin: 5px auto;
@@ -596,6 +596,7 @@
      color: #fff;
      text-decoration: none;
      margin-bottom: 0.5rem;
+     transition: 0.3s ease-out;
  }
 
  .footer__link--items a:hover {
